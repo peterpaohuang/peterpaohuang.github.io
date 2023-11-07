@@ -6,7 +6,7 @@ layout: homepage
 
 I am final year undergraduate studying computer science at the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs).
 
-My research aims to develop **machine learning algorithms** to _understand_, _treat_, and _reverse_ disease.
+My research aims to develop machine learning algorithms to understand, treat, and reverse disease.
 
 ## Research Interests
 
