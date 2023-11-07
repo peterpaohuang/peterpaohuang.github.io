@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am final year undergraduate studying computer science at the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs).
+I am a final year undergraduate studying computer science at the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs).
 
 My research aims to develop machine learning algorithms to understand, treat, and reverse disease.
 
