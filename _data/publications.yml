@@ -1,22 +1,29 @@
 main:
+  - title: "Unpaired Single Cell Dataset Alignment with Wavelet Optimal Transport"
+    authors: <strong>Peter Pao-Huang</strong>, Kyra Thrush, Daniel Montemayor, Morgan Levine
+    conference_short: In Submission
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Scalable Multimer Structure Prediction using Diffusion Models"
+    authors: <strong>Peter Pao-Huang</strong>, Bowen Jing, Bonnie Berger
+    conference_short: NeurIPS GenBio 2023
+    conference: NeurIPS 2023 Generative AI and Biology Workshop
+    pdf: https://openreview.net/pdf?id=SV6mT8iSFP
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "EigenFold: Generative Protein Structure Prediction with Diffusion Models"
+    authors: Bowen Jing, Ezra Erives, <strong>Peter Pao-Huang</strong>, Gabriele Corso, Bonnie Berger, Tommi Jaakkola
+    conference_short: ICLR MLDD 2023
+    conference: Machine Learning for Drug Discovery Workshop at International Conference on Learning Representations 2023
+    pdf: https://arxiv.org/abs/2304.02198
+    code: https://github.com/bjing2016/EigenFold
+
+  - title: "Semi-Supervised Object Detection in the Open World"
+    authors:  Garvita Allabadi, Ana Lucic, <strong>Peter Pao-Huang</strong>, Yu-Xiong Wang, Vikram Adve
+    conference_short: In Submission
+    pdf: https://arxiv.org/pdf/2307.15710.pdf
+
+  - title: "ApproxCaliper: A Programmable Framework for Application-aware Neural Network Optimization"
+    authors:  Yifan Zhao, Hashim Sharif, <strong>Peter Pao-Huang</strong>, Vatsin Shah, Arun Narenthiran Sivakumar, Mateus Valverde Gasparino, Abdulrahman Mahmoud, Nathan Zhao, Sarita Adve, Girish Chowdhary, Sasa Misailovic, Vikram Adve
+    conference_short: MLSys 2023
+    conference: Proceedings of Machine Learning and Systems 2023
+    pdf: https://proceedings.mlsys.org/paper_files/paper/2023/file/9a42255f8bc5ba6c95f17c14ffa27cad-Paper-mlsys2023.pdf
+    code: https://github.com/uiuc-arc/approxcaliper
