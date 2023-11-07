@@ -20,7 +20,7 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
     </div>
-    {% if link.pdf or link.code or link.page or link.bibtex or link.notes %} 
+    {% if link.pdf %} 
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -41,6 +41,7 @@
       {{ link.others }}
       {% endif %}
     </div>
+    {% endif %}
   </div>
 </div>
 </li>
