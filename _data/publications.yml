@@ -2,6 +2,7 @@ main:
   - title: "Unpaired Single Cell Dataset Alignment with Wavelet Optimal Transport"
     authors: <strong>Peter Pao-Huang</strong>, Kyra Thrush, Daniel Montemayor, Morgan Levine
     conference_short: In Submission
+    conference: In Submission
 
   - title: "Scalable Multimer Structure Prediction using Diffusion Models"
     authors: <strong>Peter Pao-Huang</strong>, Bowen Jing, Bonnie Berger
@@ -19,6 +20,7 @@ main:
   - title: "Semi-Supervised Object Detection in the Open World"
     authors:  Garvita Allabadi, Ana Lucic, <strong>Peter Pao-Huang</strong>, Yu-Xiong Wang, Vikram Adve
     conference_short: In Submission
+    conference: In Submission
     pdf: https://arxiv.org/pdf/2307.15710.pdf
 
   - title: "ApproxCaliper: A Programmable Framework for Application-aware Neural Network Optimization"
