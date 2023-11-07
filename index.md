@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am computer science undergraduate student at the University of Illinois at Urbana-Champaign advised by Vikram Adve, Bonnie Berger, and Morgan Levine.
+I am final year undergraduate studying computer science at the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs).
 
-My research aims to develop machine learning algorithms to understand, treat, and reverse disease. 
+My research aims to develop **machine learning algorithms** to _understand_, _treat_, and _reverse_ disease.
 
 ## Research Interests
 
-- **Machine Learning:** generative modeling, geometric deep learning, optimal transport
-- **Computational Biology:** structural biology, multi-omics, molecular simulation
+- Generative Modeling, Geometric Deep Learning, Optimal Transport
+- Structural Biology, Multi-Omics, Molecular Simulation
 
 <!-- ## News
 
