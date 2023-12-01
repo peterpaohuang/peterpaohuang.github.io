@@ -11,7 +11,7 @@ My research aims to develop machine learning algorithms to understand, treat, an
 ## Research Interests
 
 - Generative Modeling, Geometric Deep Learning, Optimal Transport
-- Structural Biology, Multi-Omics, Molecular Simulation
+- Structural Biology, Single Cell, Molecular Simulation
 
 <!-- ## News
 
