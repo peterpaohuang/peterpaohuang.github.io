@@ -4,9 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a final year undergraduate studying computer science at the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs).
+I am an incoming Computer Science PhD student at Stanford University. Previously, I obtained my B.S from the University of Illinois at Urbana-Champaign in Computer Science, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs). My research is partially funded by the NSF Graduate Research Fellowship (GRFP). 
 
 My research aims to develop machine learning algorithms to understand, treat, and reverse disease. Currently, I am working on generative models for single-cell trajectory inference. 
+
+
+
 
 ## Research Interests
 
