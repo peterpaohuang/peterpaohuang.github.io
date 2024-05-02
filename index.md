@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Computer Science PhD student at Stanford University. Previously, I obtained my B.S from the University of Illinois at Urbana-Champaign in Computer Science, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs). My research is partially funded by the NSF Graduate Research Fellowship (GRFP). 
+I am an incoming Computer Science Ph.D. student at Stanford University. My research aims to develop machine learning algorithms to understand, treat, and reverse disease. I am partially funded by the NSF Graduate Research Fellowship (GRFP).
 
-My research aims to develop machine learning algorithms to understand, treat, and reverse disease. Currently, I am working on generative models for single-cell trajectory inference. 
-
-
+Previously, I obtained my B.S. in Computer Science from the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs). 
 
 
 ## Research Interests
