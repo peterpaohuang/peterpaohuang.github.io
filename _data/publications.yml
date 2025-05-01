@@ -1,4 +1,9 @@
 main:
+  - title: "Geometric Generative Modeling with Noise-Conditioned Graph Networks"
+    authors: <strong>Peter Pao-Huang</strong>, Mitchell Black, Xiaojie Qiu
+    conference_short: ICML 2025
+    conference: International Conference on Machine Learning 2025
+
   - title: "Unpaired Single Cell Dataset Alignment with Wavelet Optimal Transport"
     authors: <strong>Peter Pao-Huang</strong>, Kyra Thrush, Daniel Montemayor, Morgan Levine
     conference_short: In Submission
@@ -16,12 +21,6 @@ main:
     conference: Machine Learning for Drug Discovery Workshop at International Conference on Learning Representations 2023
     pdf: https://arxiv.org/abs/2304.02198
     code: https://github.com/bjing2016/EigenFold
-
-  - title: "Semi-Supervised Object Detection in the Open World"
-    authors:  Garvita Allabadi, Ana Lucic, <strong>Peter Pao-Huang</strong>, Yu-Xiong Wang, Vikram Adve
-    conference_short: In Submission
-    conference: In Submission
-    pdf: https://arxiv.org/pdf/2307.15710.pdf
 
   - title: "ApproxCaliper: A Programmable Framework for Application-aware Neural Network Optimization"
     authors:  Yifan Zhao, Hashim Sharif, <strong>Peter Pao-Huang</strong>, Vatsin Shah, Arun Narenthiran Sivakumar, Mateus Valverde Gasparino, Abdulrahman Mahmoud, Nathan Zhao, Sarita Adve, Girish Chowdhary, Sasa Misailovic, Vikram Adve
