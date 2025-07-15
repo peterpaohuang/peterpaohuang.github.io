@@ -3,6 +3,8 @@ main:
     authors: <strong>Peter Pao-Huang</strong>, Mitchell Black, Xiaojie Qiu
     conference_short: ICML 2025
     conference: International Conference on Machine Learning 2025
+    pdf: http://arxiv.org/abs/2507.09391
+    code: https://github.com/peterpaohuang/ncgn
 
   - title: "Unpaired Single Cell Dataset Alignment with Wavelet Optimal Transport"
     authors: <strong>Peter Pao-Huang</strong>, Kyra Thrush, Daniel Montemayor, Morgan Levine
