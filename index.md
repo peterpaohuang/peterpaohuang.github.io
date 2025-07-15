@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Computer Science Ph.D. student at Stanford University. My research aims to develop principled machine learning methods to understand, treat, and reverse disease. I am partially funded by the NSF Graduate Research Fellowship (GRFP).
+I am a Computer Science Ph.D. student at Stanford University, co-advised by Stefano Ermon and Xiaojie Qiu. My research aims to develop principled machine learning methods to understand, treat, and reverse disease. I am partially funded by the NSF Graduate Research Fellowship (GRFP).
 
 Previously, I obtained my B.S. in Computer Science from the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs). 
 
