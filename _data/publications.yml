@@ -1,4 +1,11 @@
 main:
+  - title: "Generative Modeling with Flux Matching"
+    authors: <strong>Peter Pao-Huang</strong>, Xiaojie Qiu, Stefano Ermon
+    conference_short: In Submission
+    conference: In Submission
+    pdf: https://arxiv.org/abs/2605.07319
+    code: https://github.com/peterpaohuang/flux_matching
+
   - title: "Geometric Generative Modeling with Noise-Conditioned Graph Networks"
     authors: <strong>Peter Pao-Huang</strong>, Mitchell Black, Xiaojie Qiu
     conference_short: ICML 2025
