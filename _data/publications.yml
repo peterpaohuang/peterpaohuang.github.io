@@ -13,11 +13,6 @@ main:
     pdf: http://arxiv.org/abs/2507.09391
     code: https://github.com/peterpaohuang/ncgn
 
-  - title: "Unpaired Single Cell Dataset Alignment with Wavelet Optimal Transport"
-    authors: <strong>Peter Pao-Huang</strong>, Kyra Thrush, Daniel Montemayor, Morgan Levine
-    conference_short: In Submission
-    conference: In Submission
-
   - title: "Scalable Multimer Structure Prediction using Diffusion Models"
     authors: <strong>Peter Pao-Huang</strong>, Bowen Jing, Bonnie Berger
     conference_short: NeurIPS GenBio 2023
