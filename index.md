@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Computer Science Ph.D. student at Stanford University, co-advised by Stefano Ermon and Xiaojie Qiu. My research aims to develop principled generative modeling methods to understand, treat, and reverse disease. I am currently interested in modeling Perturb-seq data. 
+I am a Computer Science Ph.D. student at Stanford University, co-advised by Stefano Ermon and Xiaojie Qiu. My research aims to develop principled generative modeling methods to understand, treat, and reverse disease. I am supported by the NSF GRFP and Stanford Bio-X Fellowship. 
+
+I am currently interested in modeling Perturb-seq data. 
 
 Previously, I obtained my B.S. in Computer Science from the University of Illinois at Urbana-Champaign, advised by Vikram Adve (UIUC), Bonnie Berger (MIT), and Morgan Levine (Altos Labs). 
 
